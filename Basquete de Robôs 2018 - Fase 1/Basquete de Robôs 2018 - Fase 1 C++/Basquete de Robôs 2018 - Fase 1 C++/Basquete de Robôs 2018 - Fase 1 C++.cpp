@@ -5,7 +5,7 @@ int main ()
 {
 	int D;
 
-	cout << "Qual a distancia do robo?";
+	cout << "Qual a distancia do robo ?";
 	cin >> D;
 
 	if (D <= 800)
